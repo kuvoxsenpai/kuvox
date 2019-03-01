@@ -1,0 +1,19 @@
+{
+    "name": "KuvoxSenpai",
+    "short_name": "KuvoxSenpai",
+    "icons": [
+        {
+            "src": "https://3.bp.blogspot.com/-IhmOjXBfXQo/XHjkDjuz6zI/AAAAAAAAK88/y0b7sMuR68ofqWHRQEs86MDidqKC0U8BgCLcBGAs/s1600/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://3.bp.blogspot.com/-IhmOjXBfXQo/XHjkDjuz6zI/AAAAAAAAK88/y0b7sMuR68ofqWHRQEs86MDidqKC0U8BgCLcBGAs/s1600/favicon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
